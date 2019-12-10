@@ -1,0 +1,7 @@
+README.md
+setup.py
+siak-schedule-scrapper
+siak_schedule_scrapper.egg-info/PKG-INFO
+siak_schedule_scrapper.egg-info/SOURCES.txt
+siak_schedule_scrapper.egg-info/dependency_links.txt
+siak_schedule_scrapper.egg-info/top_level.txt
